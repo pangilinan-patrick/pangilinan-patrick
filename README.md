@@ -81,10 +81,6 @@
 <div align="center">
 <h1><strong> My Stats </strong></h1>
 
-![Git Stats](https://github-readme-activity-graph.cyclic.app/graph?username=pangilinan-patrick&theme=react-dark)
-
-<br/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pangilinan-patrick&hide=assembly,java,jupyter%20notebook&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3><strong> Open Source Tools </strong></h3>
