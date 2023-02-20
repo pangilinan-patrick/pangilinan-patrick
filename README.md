@@ -5,12 +5,12 @@
 
 <h1><strong>Welcome!</strong></h1>
 
-<div size='20px'> Hi! I'm a diligent 4th Year Computer Science Student with skills in programming, and UI/UX design. Committed to continuous learning and professional growth, I consistently seek out new opportunities to expand my skills and knowledge.
+<div size='60%'> Hi! I'm a diligent 4th Year Computer Science Student with skills in programming, and UI/UX design. Committed to continuous learning and professional growth, I consistently seek out new opportunities to expand my skills and knowledge.
 </div>
 <br/>
 <h2><strong> About Me </strong></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+<img width="350px" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
 - 🔭 I’m currently working on a JavaScript certification on freecodecamp.
@@ -19,53 +19,63 @@
 
 - 🗓️ I'm planning on creating a website to house my portfolio projects.
 
-- ⚡ Fun fact:
+- ⚡ Fun facts:
   - Hablo español! Platiquemos para que pueda practicar 😊
   - I like playing the piano and composing music.
   
 <br/>
 <h1><strong>✏️ Skills</strong></h1>
-<h2><strong> Programming</strong></h2>
+<h3><strong> Programming</strong></h3>
+<p float="left">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+</p>
 
-<br/>
-<h2><strong>Database</strong></h2>
+<h3><strong>Database</strong></h3>
+<p float="left">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
 
-<br/>
-<h2><strong>Web Development</strong></h2>
+<h3><strong>Web Development</strong></h3>
+<p float="left">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
+</p>
 
-<br/>
-<h2><strong>Machine Learning/Data Analysis</strong></h2>
+<h3><strong>Machine Learning/Data Analysis</strong></h3>
+<p float="left">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white">
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+</p>
 
-<br/>
-<h2><strong>Others</strong></h2>
+<h3><strong>Others</strong></h3>
+<p float="left">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
+</p>
+  
+<p float="left">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">
-
+</p>
+  
+<p float="left">
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white">
 <img src="https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff">
+</p>
 
 <br />
 <div align="center">
@@ -77,7 +87,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pangilinan-patrick&hide=assembly,java,jupyter%20notebook&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
 <h3><strong> Open Source Tools </strong></h3>
 <img src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white" height="20">
 <img src ="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" height="20">
