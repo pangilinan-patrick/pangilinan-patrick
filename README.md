@@ -22,8 +22,7 @@
 - ⚡ Fun facts:
   - Hablo español! Platiquemos para que pueda practicar 😊
   - I like playing the piano and composing music.
-  
-<br/>
+ 
 <h1><strong>✏️ Skills</strong></h1>
 <h3><strong> Programming</strong></h3>
 <p float="left">
@@ -77,7 +76,6 @@
 <img src="https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff">
 </p>
 
-<br />
 <div align="center">
 <h1><strong> My Stats </strong></h1>
 
