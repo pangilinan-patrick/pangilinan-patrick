@@ -10,8 +10,7 @@
 <br/>
 <h2><strong> About Me </strong></h2>
 
-<img width="350px" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-
+<img width="370px" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 - 🔭 I’m currently working on a JavaScript certification on freecodecamp.
 
@@ -78,7 +77,9 @@
 
 <div align="center">
 <h1><strong> My Stats </strong></h1>
-
+  
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pangilinan-patrick&theme=github_dark)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pangilinan-patrick&hide=assembly,java,jupyter%20notebook&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3><strong> Open Source Tools </strong></h3>
