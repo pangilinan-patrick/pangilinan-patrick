@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently going through the JavaScript courses on freeCodeCamp in preparation for an upcoming JavaScript programming competition.
 
-- 🌱 I’m starting on learning JS frameworks such as ReactJS for front-end development.
+- 🌱 I’m getting started on learning JS frameworks such as ReactJS for front-end development.
 
 - 🎉 I just finished my certification on JavaScript Data Structures and Algorithms on freeCodeCamp! You can see it [here](https://www.freecodecamp.org/certification/Patrick-Pangilinan/javascript-algorithms-and-data-structures).
 
