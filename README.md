@@ -20,7 +20,7 @@
 
 - 🗓️ I'm planning on creating a website to house my portfolio projects.
 
-- 💻 I'm the UI/UX dev for our thesis project, the <strong>MyDBuddy Chat Bot</strong>. The project is fully documented in [this repo](https://github.com/pangilinan-patrick/MyDCampus-Channel-Web). 
+- 💻 I'm the UI/UX dev for our thesis project, the <strong>MyDBuddy Chat Bot</strong> which earned a Silver Best Thesis Award. The project is fully documented in [this repo](https://github.com/pangilinan-patrick/MyDCampus-Channel-Web). 
 
 - ⚡ Fun facts:
   - Hablo español! Platiquemos para que pueda practicar 😊
