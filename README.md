@@ -23,9 +23,9 @@
 - 💻 I'm the UI/UX dev for our thesis project, the <strong>MyDBuddy Chat Bot</strong> which earned a Silver Best Thesis Award. The project is fully documented in [this repo](https://github.com/pangilinan-patrick/MyDCampus-Channel-Web). 
 
 - ⚡ Fun facts:
-  - Hablo español! Platiquemos para que pueda practicar 😊
-  - I like playing the piano and composing music.
-  - I've been daily driving Linux for almost a year now. Still learning!
+  - 🇪🇸 Hablo español! Platiquemos para que pueda practicar 😊
+  - 🎹 I like playing the piano and composing music.
+  - 🐧 I've been daily driving Linux for almost a year now. Still learning!
  
 <h1><strong>✏️ Skills</strong></h1>
 <h3><strong> Programming</strong></h3>
