@@ -10,7 +10,7 @@
 <br/>
 <h2><strong> About Me </strong></h2>
 
-<img width="370px" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+<img width="400px" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 - 🔭 I’m currently going through the JavaScript courses on freeCodeCamp in preparation for an upcoming JavaScript programming competition.
 
