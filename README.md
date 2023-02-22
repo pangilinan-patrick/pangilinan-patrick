@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=3000&pause=800&color=4B8DD8&center=true&vCenter=true&width=435&height=150&lines=Hello%2C+world!;I'm+Patrick+Pangilinan+%F0%9F%91%8B;Hola+a+todos!;Soy+Patrick+Pangilinan+%F0%9F%91%8B)](https://git.io/typing-svg)
 </div>
 
-<h1><strong>Welcome!</strong></h1>
+<h1>👋<strong> Welcome!</strong></h1>
 
 <div size='60%'> Hi! I'm a diligent 4th Year Computer Science Student with skills in programming, and UI/UX design. Committed to continuous learning and professional growth, I consistently seek out new opportunities to expand my skills and knowledge.
 </div>
