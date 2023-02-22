@@ -12,9 +12,11 @@
 
 <img width="370px" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
-- 🔭 I’m currently working on a JavaScript certification on freecodecamp. You can track my progress [here](https://github.com/pangilinan-patrick/JavaScript-Practice/tree/main/freecodecamp-cert-exercises).
+- 🔭 I’m currently going through the JavaScript courses on freeCodeCamp in preparation for an upcoming JavaScript programming competition.
 
 - 🌱 I’m starting on learning JS frameworks such as ReactJS for front-end development.
+
+- 🎉 I just finished my certification on JavaScript Data Structures and Algorithms on freeCodeCamp! You can see it [here](https://www.freecodecamp.org/certification/Patrick-Pangilinan/javascript-algorithms-and-data-structures).
 
 - 🗓️ I'm planning on creating a website to house my portfolio projects.
 
