@@ -25,6 +25,7 @@
 - ⚡ Fun facts:
   - Hablo español! Platiquemos para que pueda practicar 😊
   - I like playing the piano and composing music.
+  - I've been daily driving Linux for almost a year now. Still learning!
  
 <h1><strong>✏️ Skills</strong></h1>
 <h3><strong> Programming</strong></h3>
