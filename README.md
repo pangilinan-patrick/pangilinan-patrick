@@ -27,6 +27,25 @@
   - 🎹 I like playing the piano and composing music.
   - 🐧 I've been daily driving Linux for almost a year now. Still learning!
  
+<h1><strong>🚀 Featured Projects</strong></h1>
+
+[<img src="https://raw.githubusercontent.com/pangilinan-patrick/MyDCampus-Channel-Web/main/git_img_assets/dbuddy.png">](https://github.com/pangilinan-patrick/MyDCampus-Channel-Web/)
+
+`Banner designed in GIMP by yours truly.`
+
+<h4>Proponents:</h4>
+<ul>
+  
+  <li>Zeth Raphael Arguelles <a href=https://github.com/zrta2480)>[zrta2480]</a> </li> 
+  
+  <li>Patrick Pangilinan</li> 
+  
+  <li>Aaron Charles Vergara <a href=https://github.com/vergaraac)>[vergaraac]</a></li>
+  
+  <li>Sanjay Sajnani <a href=https://github.com/sanjaysajnani)>[sanjaysajnani]</a></li>
+  
+</ul>
+ 
 <h1><strong>✏️ Skills</strong></h1>
 <h3><strong> Programming</strong></h3>
 <p float="left">
