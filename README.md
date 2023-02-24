@@ -36,13 +36,13 @@
 <h4>Proponents:</h4>
 <ul>
   
-  <li>Zeth Raphael Arguelles <a href=https://github.com/zrta2480)>[zrta2480]</a> </li> 
+  <li>Zeth Raphael Arguelles <a href=https://github.com/zrta2480>[zrta2480]</a> </li> 
   
   <li>Patrick Pangilinan</li> 
   
-  <li>Aaron Charles Vergara <a href=https://github.com/vergaraac)>[vergaraac]</a></li>
+  <li>Aaron Charles Vergara <a href=https://github.com/vergaraac>[vergaraac]</a></li>
   
-  <li>Sanjay Sajnani <a href=https://github.com/sanjaysajnani)>[sanjaysajnani]</a></li>
+  <li>Sanjay Sajnani <a href=https://github.com/sanjaysajnani>[sanjaysajnani]</a></li>
   
 </ul>
  
