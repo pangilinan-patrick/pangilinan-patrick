@@ -106,7 +106,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pangilinan-patrick&hide=assembly,java,jupyter%20notebook&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3><strong> Open Source Tools </strong></h3>
+<h3><strong> Powered By Open Source Tools </strong></h3>
 <img src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white" height="20">
 <img src ="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" height="20">
