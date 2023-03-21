@@ -14,11 +14,11 @@
 
 - 🔭 I’m currently learning ReactJS to use as the front-end framework for my portfolio website.
 
+- 🔭 I’m currently working on my portfolio website using a ReactJS template to get my bearings on the framework.
+
 - 🌱 I’m planning on finishing the Repsponsive Web Design and ReactJS course on freeCodeCamp.
 
 - 🎉 I just finished my certification on JavaScript Data Structures and Algorithms on freeCodeCamp! You can see it [here](https://www.freecodecamp.org/certification/Patrick-Pangilinan/javascript-algorithms-and-data-structures).
-
-- 🗓️ I'm planning on creating a website to house my portfolio projects.
 
 - 💻 I'm the UI/UX dev for our thesis project, the <strong>MyDBuddy Chat Bot</strong> which earned a Silver Best Thesis Award. The project is fully documented in [this repo](https://github.com/pangilinan-patrick/MyDCampus-Channel-Web). 
 
