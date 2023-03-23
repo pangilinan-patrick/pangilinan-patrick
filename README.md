@@ -12,9 +12,7 @@
 
 <img width="400px" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
-- 🔭 I’m currently learning ReactJS to use as the front-end framework for my portfolio website.
-
-- 🔭 I’m currently working on my portfolio website using a ReactJS template to get my bearings on the framework.
+- 🔭 I’m currently working on [my portfolio](https://pangilinan-patrick.github.io/Portfolio/) website using a ReactJS template to get my bearings on the framework.
 
 - 🌱 I’m planning on finishing the Repsponsive Web Design and ReactJS course on freeCodeCamp.
 
