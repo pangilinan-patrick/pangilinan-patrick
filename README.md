@@ -14,6 +14,8 @@
 
 - 🔭 I’m currently working on [my portfolio](https://pangilinan-patrick.github.io/Portfolio/) website using a ReactJS template to get my bearings on the framework.
 
+- 🔭 I'm currently going through the [30 Days of React](https://github.com/pangilinan-patrick/30-Days-Of-React/tree/exercise-solutions) exercises to get hands-on experience with ReactJS.
+
 - 🌱 I’m planning on finishing the Repsponsive Web Design and ReactJS course on freeCodeCamp.
 
 - 🎉 I just finished my certification on JavaScript Data Structures and Algorithms on freeCodeCamp! You can see it [here](https://www.freecodecamp.org/certification/Patrick-Pangilinan/javascript-algorithms-and-data-structures).
