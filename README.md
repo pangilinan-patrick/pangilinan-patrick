@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://pangilinan-patrick.github.io/Portfolio/) website using a ReactJS template to get my bearings on the framework.
 
-- 🔭 I'm currently going through the [30 Days of React](https://github.com/pangilinan-patrick/30-Days-Of-React/tree/exercise-solutions) exercises to get hands-on experience with ReactJS.
+- 🔭 I'm currently learning Front-end Development with technologies such as VueJS, Quasar Framework and Axios in my OJT at [Pixel8](https://software.pixel8.ph/).
 
 - 🌱 I’m planning on finishing the Repsponsive Web Design and ReactJS course on freeCodeCamp.
 
