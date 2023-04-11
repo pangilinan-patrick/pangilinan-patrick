@@ -66,12 +66,14 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+<img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white">
 </p>
 
+<!--
 <h3><strong>Machine Learning/Data Analysis</strong></h3>
 <p float="left">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
@@ -79,6 +81,7 @@
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 </p>
+-->
 
 <h3><strong>Others</strong></h3>
 <p float="left">
@@ -105,7 +108,7 @@
   
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pangilinan-patrick&theme=github_dark)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pangilinan-patrick&hide=assembly,java,jupyter%20notebook&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pangilinan-patrick&hide=assembly,php,c%2B%2B,java,jupyter%20notebook&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3><strong> Powered By Open Source Tools </strong></h3>
 <img src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white" height="20">
