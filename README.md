@@ -12,11 +12,11 @@
 
 <img width="400px" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
-- 🔭 I’m currently working on [my portfolio](https://pangilinan-patrick.github.io/Portfolio/) website using a ReactJS template to get my bearings on the framework.
+- 🔭 I’m currently working on [my portfolio](https://github.com/pangilinan-patrick/Portfolio-Pangilinan) website using ReactJS under the NextJS framework.
 
 - 🔭 I'm currently learning Front-end Development with technologies such as VueJS, Quasar Framework and Axios in my OJT at [Pixel8](https://software.pixel8.ph/).
 
-- 🌱 I’m planning on finishing the Repsponsive Web Design and ReactJS course on freeCodeCamp.
+- 🌱 I’m planning on finishing the Repsponsive Web Design and Front End Development Libraries course on freeCodeCamp.
 
 - 🎉 I just finished my certification on JavaScript Data Structures and Algorithms on freeCodeCamp! You can see it [here](https://www.freecodecamp.org/certification/Patrick-Pangilinan/javascript-algorithms-and-data-structures).
 
@@ -47,6 +47,7 @@
 </ul>
  
 <h1><strong>✏️ Skills</strong></h1>
+<!--
 <h3><strong> Programming</strong></h3>
 <p float="left">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -54,12 +55,7 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </p>
-
-<h3><strong>Database</strong></h3>
-<p float="left">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
+-->
 
 <h3><strong>Web Development</strong></h3>
 <p float="left">
@@ -73,6 +69,16 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</p>
+<p float="left">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+</p>
+
+<h3><strong>Database</strong></h3>
+<p float="left">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
 <!--
