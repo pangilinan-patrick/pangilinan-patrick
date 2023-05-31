@@ -5,9 +5,13 @@
 
 <h1>👋<strong> Welcome!</strong></h1>
 
-<div size='60%'> Hi! I'm a diligent 4th Year Computer Science Student with skills in programming, and specialization in Front-end Development. Committed to continuous learning and professional growth, I consistently seek out new opportunities to expand my skills and knowledge.
+<div size='60%'> Hi! I'm a diligent 4th Year Computer Science Student with skills in programming, and specialization in Front-end Development. Committed to continuous learning and professional growth, I consistently seek out new opportunities to expand my skills and knowledge.  
 </div>
+
 <br/>
+
+[<img src="https://img.shields.io/badge/My%20Portfolio%20%3E-000000?style=for-the-badge&Color=white">](https://portfolio-pangilinan.vercel.app/)
+
 <h2><strong> About Me </strong></h2>
 
 <img width="400px" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
