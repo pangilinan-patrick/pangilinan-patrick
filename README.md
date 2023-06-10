@@ -19,11 +19,11 @@
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/pangilinan-patrick/Portfolio-Pangilinan) website using ReactJS under the NextJS framework.
 
-- 🔭 I'm currently learning Front-end Development with technologies such as VueJS, Quasar Framework and Axios in my OJT at [Pixel8](https://software.pixel8.ph/).
-
 - 🌱 I’m planning on finishing the Repsponsive Web Design and Front End Development Libraries course on freeCodeCamp.
 
-- 🎉 I participated in this year's [Accenture Student Leadership Conference](https://accenture-ph.talkpush.com/site/campaigns/Z2lkOi8vYXN0cmFldXMvQ2FtcGFpZ246OlJlY29yZC8yMTc2).
+- 🎉 I just finished my OJT at [Pixel8](https://software.pixel8.ph/) as a Front-End Developer!
+
+- 🎉 I participated in this year's [Accenture Student Leadership Conference](https://accenture-ph.talkpush.com/site/campaigns/Z2lkOi8vYXN0cmFldXMvQ2FtcGFpZ246OlJlY29yZC8yMTc2)!
 
 - 💻 I'm the Front-End and UI/UX dev for our thesis project, the <strong>MyDBuddy Chat Bot</strong> which earned a Silver Best Thesis Award. The project is fully documented in [this repo](https://github.com/pangilinan-patrick/MyDCampus-Channel-Web).
 
