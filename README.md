@@ -17,11 +17,11 @@
 
 <img width="400px" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
+- 🥳 I was recently promoted to a Software Engineering Analyst in Accenture after 2 years!
+
 - 🔭 I’m currently working on [my portfolio](https://github.com/pangilinan-patrick/Portfolio-Pangilinan) website using ReactJS under the NextJS framework.
 
 - 🌱 I’m planning on finishing the Repsponsive Web Design and Front End Development Libraries course on freeCodeCamp.
-
-- 🚀 I'm currently working as an Associate Software Engineer at Accenture, building and mostly maintaining Packaged and Web Apps.
 
 - 🎉 I participated in the 2023 [Accenture Student Leadership Conference](https://accenture-ph.talkpush.com/site/campaigns/Z2lkOi8vYXN0cmFldXMvQ2FtcGFpZ246OlJlY29yZC8yMTc2)!
 
