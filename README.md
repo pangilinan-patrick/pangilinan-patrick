@@ -6,7 +6,7 @@
 
 <h1>👋<strong> Welcome!</strong></h1>
 
-<div size='60%'> Hi, I'm Patrick Pangilinan! I'm a Computer Science graduate from De La Salle University-Lipa, currently working as an Associate Software Engineer at Accenture. I specialize in developing and maintaining scalable, high-performance web applications using modern technologies like C#, ASP.NET MVC, JavaScript, SQL, and Azure services.
+<div size='60%'> Hi, I'm Patrick Pangilinan! I'm a Software Engineering Analyst at Accenture. I specialize in developing and maintaining scalable, high-performance web applications using modern technologies like C#, ASP.NET, ReactJS, SQL, and Azure services.
 </div>
 
 <br/>
