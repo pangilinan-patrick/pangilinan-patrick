@@ -19,11 +19,11 @@
 
 - 🥳 I was recently promoted to a Software Engineering Analyst in Accenture after 2 years!
 
+- 🗣️ I was one of the presentors for the impacts of Generative AI on Developer Worfklow for a client visit at Accenture!
+
 - 🔭 I’m currently working on [my portfolio](https://github.com/pangilinan-patrick/Portfolio-Pangilinan) website using ReactJS under the NextJS framework.
 
 - 🌱 I’m planning on finishing the Repsponsive Web Design and Front End Development Libraries course on freeCodeCamp.
-
-- 🎉 I participated in the 2023 [Accenture Student Leadership Conference](https://accenture-ph.talkpush.com/site/campaigns/Z2lkOi8vYXN0cmFldXMvQ2FtcGFpZ246OlJlY29yZC8yMTc2)!
 
 - 💻 I'm the Front-End and UI/UX dev for our thesis project, the <strong>MyDBuddy Chat Bot</strong> which earned a Silver Best Thesis Award. The project is fully documented in [this repo](https://github.com/pangilinan-patrick/MyDCampus-Channel-Web).
 
